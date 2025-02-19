@@ -1,7 +1,6 @@
 # Melanoma_Detection
 To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
-Skin Cancer Detection using CNN
 Skin cancer is a deadly disease that can be life-threatening if not detected early. This project aims to build a CNN-based model that accurately detects melanoma, the deadliest form of skin cancer. The model evaluates images and alerts dermatologists about the presence of melanoma, reducing the manual effort needed for diagnosis.
 
 Dataset
